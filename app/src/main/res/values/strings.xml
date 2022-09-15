@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Frases</string>
+    <string name="frase_do_dia">Frase do Dia</string>
+    <string name="botao_de_gerar_frase">Pressione o botão para gerar uma nova frase.</string>
+    <string name="nova_frase">Nova Frase</string>
+    <string name="fundo_tela">Fundo_de_tela_livro_branco_sobre_a_mesa_com uma_caneta_dourada_em_cima</string>
+</resources>
